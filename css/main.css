@@ -1,0 +1,37 @@
+.main {
+    padding: 11%;
+    border: 3px solid #599e54;
+    border-radius: 12px;
+}
+
+.main ul {
+    background: #151d1e;
+    border: 3px solid #172326;
+    border-radius: 12px;
+    padding: 9%;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 14%;
+}
+
+.info img {
+    width: 15%;
+    height: 15%;
+    margin-right: 7%;
+}
+
+.info p {
+    margin: 0;
+    padding: 0;
+}
+
+.info span {
+    font-weight: 400;
+}
+
+.info p {
+    font-weight: 800;
+}
