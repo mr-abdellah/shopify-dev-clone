@@ -1,0 +1,32 @@
+.contact-section ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background: #151d1e;
+    border: 3px solid #172326;
+    border-radius: 12px;
+    margin-bottom: 5%;
+    padding: 5%;
+    box-shadow: -6px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.contact p {
+    margin: 0;
+}
+
+.contact a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}
