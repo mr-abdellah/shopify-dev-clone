@@ -18,6 +18,19 @@
     box-shadow: -6px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
+#contact1 {
+    border: 3px solid #89a1d7;
+}
+
+#contact1 img {
+    width: 48%;
+}
+
+#contact1 p {
+    font-weight: 700;
+    font-size: 21px;
+}
+
 .contact p {
     margin: 0;
 }
