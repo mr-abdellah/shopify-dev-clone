@@ -13,7 +13,7 @@ or
 to get a local copy , clone the repository using git clone
 [TAP HERE](https://github.com/mr-abdellah/shopify-dev-clone.git)
 
-## LIVE DEMO : {Enter Here](https://mr-abdellah.github.io/shopify-dev-clone/)
+## LIVE DEMO : [Enter Here](https://mr-abdellah.github.io/shopify-dev-clone/)
 
 ## Built With
 
