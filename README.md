@@ -2,8 +2,6 @@
 
 In this project, we built a clone of shopify dev
 
-# # Do you wanna try it ? no problem just enter here : ()
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
