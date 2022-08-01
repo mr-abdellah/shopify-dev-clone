@@ -13,8 +13,9 @@ or
 
 ### Clone it in your local machine using GIT
 to get a local copy , clone the repository using git clone
-(https://github.com/mr-abdellah/shopify-dev-clone.git)
+[TAP HERE](https://github.com/mr-abdellah/shopify-dev-clone.git)
 
+## LIVE DEMO : {Enter Here](https://mr-abdellah.github.io/shopify-dev-clone/)
 
 ## Built With
 
